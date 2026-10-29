@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Número do responsável pelos agendamentos.
     // Formato: 55 + DDD + número.
-    const WHATSAPP_EQUIPE = "+55 83 98672-1977";
+    const WHATSAPP_EQUIPE = "+55 83 98206-1860";
 
     const configurado =
         SUPABASE_URL.startsWith("https://") &&
